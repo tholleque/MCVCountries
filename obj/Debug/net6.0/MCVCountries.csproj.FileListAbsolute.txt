@@ -1,0 +1,15 @@
+C:\Users\timot\GC\C# Repositories\MCVCountries\bin\Debug\net6.0\MCVCountries.exe
+C:\Users\timot\GC\C# Repositories\MCVCountries\bin\Debug\net6.0\MCVCountries.deps.json
+C:\Users\timot\GC\C# Repositories\MCVCountries\bin\Debug\net6.0\MCVCountries.runtimeconfig.json
+C:\Users\timot\GC\C# Repositories\MCVCountries\bin\Debug\net6.0\MCVCountries.dll
+C:\Users\timot\GC\C# Repositories\MCVCountries\bin\Debug\net6.0\MCVCountries.pdb
+C:\Users\timot\GC\C# Repositories\MCVCountries\obj\Debug\net6.0\MCVCountries.csproj.AssemblyReference.cache
+C:\Users\timot\GC\C# Repositories\MCVCountries\obj\Debug\net6.0\MCVCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\GC\C# Repositories\MCVCountries\obj\Debug\net6.0\MCVCountries.AssemblyInfoInputs.cache
+C:\Users\timot\GC\C# Repositories\MCVCountries\obj\Debug\net6.0\MCVCountries.AssemblyInfo.cs
+C:\Users\timot\GC\C# Repositories\MCVCountries\obj\Debug\net6.0\MCVCountries.csproj.CoreCompileInputs.cache
+C:\Users\timot\GC\C# Repositories\MCVCountries\obj\Debug\net6.0\MCVCountries.dll
+C:\Users\timot\GC\C# Repositories\MCVCountries\obj\Debug\net6.0\refint\MCVCountries.dll
+C:\Users\timot\GC\C# Repositories\MCVCountries\obj\Debug\net6.0\MCVCountries.pdb
+C:\Users\timot\GC\C# Repositories\MCVCountries\obj\Debug\net6.0\MCVCountries.genruntimeconfig.cache
+C:\Users\timot\GC\C# Repositories\MCVCountries\obj\Debug\net6.0\ref\MCVCountries.dll
